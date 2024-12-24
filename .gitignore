@@ -1,0 +1,7 @@
+simulator/__pycache__
+simulator/bin
+simulator/share
+simulator/lib
+simulator/lib64
+simulator/include
+simulator/pyvenv.cfg
